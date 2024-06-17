@@ -1,5 +1,32 @@
 ## Akadream 👋
 
+<h1>
+<!-- Steam Link -->
+<a href="https://steamcommunity.com/id/akadream/#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/steam.png?gh-dark-mode-only" height="20" alt="Akadream on Steam">
+</a>
+<a href="https://steamcommunity.com/id/akadream/#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/steam.png?gh-light-mode-only" height="20" alt="Akadream on Steam">    
+</a>
+
+<!-- itch.io Link -->
+<a href="https://almost-good-studio.itch.io#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/itchio.png?gh-dark-mode-only" height="20" alt="Almost Good Studio on Itch.io">
+    
+</a>
+<a href="https://almost-good-studio.itch.io#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/itchio.png?gh-light-mode-only" height="20" alt="Almost Good Studio on Itch.io">
+</a>
+
+<!-- YouTube Link -->
+<a href="https://www.youtube.com/@Akaadream#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/youtube.png?gh-dark-mode-only" height="20" alt="Akadream on YouTube">
+</a>
+<a href="https://www.youtube.com/@Akaadream#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/youtube.png?gh-light-mode-only" height="20" alt="Akadream on YouTube">
+</a>
+</h1>
+
 Hi, I'm Guillaume Lortet, aka Akadream.
 I am obsessed with creating tools and I'm actively developing my own game engine.
 

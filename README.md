@@ -1,16 +1,16 @@
-## Hi there 👋
+## Akadream 👋
 
-<!--
-**akaadream/akaadream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Guillaume Lortet, aka Akadream.
+I am obsessed with creating tools and I'm actively developing my own game engine.
 
-Here are some ideas to get you started:
+I am mainly using [MonoGame](https://monogame.net) to create games and game tools, but I am also working on the web development industry!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=akaadream&show_icons=true&theme=dracula" height=200>
+
+## My tools
+
+Here are some tools I worked on (game and web):
+
+- 🎮 [Almost Good Engine](https://github.com/akaadream/AlmostGoodEngine): My work in progress game engine
+- 🎮 [MonoGame.Reload](https://github.com/akaadream/MonoGame.Reload): A hot reloading to for MonoGame
+- ⌨️ [Docket](https://docket.akadream.fr/): A [Colyseus](https://colyseus.io/) testing tool (and soon Socket.IO and websocket) 

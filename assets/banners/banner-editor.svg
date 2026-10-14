@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace">
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24,0 H0 V24" fill="none" stroke="#24283b"/></pattern>
+<clipPath id="codeclip"><rect x="801" y="47" width="378" height="212"/></clipPath></defs>
+<style>
+.cover{animation-duration:9s;animation-iteration-count:infinite}
+@keyframes type0{0%,4%{transform:translateX(0);animation-timing-function:steps(30,end)}12%,90%{transform:translateX(253px)}96%,100%{transform:translateX(0)}}
+@keyframes type1{0%,14%{transform:translateX(0);animation-timing-function:steps(36,end)}22%,90%{transform:translateX(304px)}96%,100%{transform:translateX(0)}}
+@keyframes type2{0%,24%{transform:translateX(0);animation-timing-function:steps(18,end)}32%,90%{transform:translateX(152px)}96%,100%{transform:translateX(0)}}
+@keyframes type3{0%,34%{transform:translateX(0);animation-timing-function:steps(25,end)}42%,90%{transform:translateX(211px)}96%,100%{transform:translateX(0)}}
+@keyframes type4{0%,44%{transform:translateX(0);animation-timing-function:steps(27,end)}52%,90%{transform:translateX(228px)}96%,100%{transform:translateX(0)}}
+@keyframes type5{0%,54%{transform:translateX(0);animation-timing-function:steps(3,end)}62%,90%{transform:translateX(25px)}96%,100%{transform:translateX(0)}}
+@keyframes type6{0%,64%{transform:translateX(0);animation-timing-function:steps(1,end)}72%,90%{transform:translateX(8px)}96%,100%{transform:translateX(0)}}
+
+.patrol{animation:patrol 6s ease-in-out infinite alternate}
+@keyframes patrol{from{transform:translateX(-200px)}to{transform:translateX(200px)}}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.uirect{animation:pulse 3s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+</style>
+
+<rect width="1200" height="300" fill="#1a1b26"/>
+<rect x="20" y="14" width="1160" height="272" rx="12" fill="#1f2335" stroke="#414868"/>
+<path d="M20,46 h1160" stroke="#414868"/>
+<circle cx="42" cy="30" r="6" fill="#f7768e"/><circle cx="62" cy="30" r="6" fill="#e0af68"/><circle cx="82" cy="30" r="6" fill="#9ece6a"/>
+<text x="600" y="35" font-size="13" text-anchor="middle" fill="#565f89">AlmostGood Engine — akadream.scene</text>
+<path class="pulse" d="M1146,22 l14,8 l-14,8 z" fill="#9ece6a"/>
+<path d="M230,46 v214 M800,46 v214 M20,260 h1160" stroke="#414868"/>
+<text x="38" y="68" font-size="11" letter-spacing="2" fill="#565f89">HIERARCHY</text>
+<text x="38" y="96" font-size="14" fill="#565f89" xml:space="preserve">▾ Scene</text><text x="38" y="122" font-size="14" fill="#565f89" xml:space="preserve">   Camera</text><rect x="21" y="131" width="208" height="24" fill="#24283b"/><rect x="21" y="131" width="3" height="24" fill="#bb9af7"/><text x="38" y="148" font-size="14" fill="#c0caf5" xml:space="preserve">   Player</text><text x="38" y="174" font-size="14" fill="#565f89" xml:space="preserve">   ToolsManager</text><text x="38" y="200" font-size="14" fill="#565f89" xml:space="preserve">   ▾ Canvas</text><text x="38" y="226" font-size="14" fill="#565f89" xml:space="preserve">      Title</text>
+<rect x="231" y="47" width="568" height="212" fill="url(#grid)"/>
+<g class="uirect" fill="none" stroke="#7aa2f7">
+  <rect x="330" y="74" width="370" height="68" stroke-dasharray="5 4" stroke-opacity=".7"/>
+  <g fill="#1f2335" stroke-width="1.5"><rect x="326" y="70" width="8" height="8"/><rect x="696" y="70" width="8" height="8"/><rect x="326" y="138" width="8" height="8"/><rect x="696" y="138" width="8" height="8"/></g>
+</g>
+<text x="330" y="66" font-size="10" letter-spacing="1" fill="#7aa2f7">Title · TextRenderer</text>
+<text x="519" y="132" font-size="64" font-weight="800" letter-spacing="4" text-anchor="middle" fill="#bb9af7">AKADREAM</text>
+<text x="515" y="128" font-size="64" font-weight="800" letter-spacing="4" text-anchor="middle" fill="#ffffff">AKADREAM</text>
+<text x="515" y="162" font-size="16" text-anchor="middle" fill="#c0caf5">Game dev • Tool maker • Web dev</text>
+<path d="M231,246 h568" stroke="#414868" stroke-dasharray="4 4"/>
+<g class="patrol">
+  <rect x="507" y="214" width="4" height="4" fill="#bb9af7"/><rect x="511" y="214" width="4" height="4" fill="#bb9af7"/><rect x="515" y="214" width="4" height="4" fill="#bb9af7"/><rect x="519" y="214" width="4" height="4" fill="#bb9af7"/><rect x="503" y="218" width="4" height="4" fill="#bb9af7"/><rect x="507" y="218" width="4" height="4" fill="#bb9af7"/><rect x="511" y="218" width="4" height="4" fill="#bb9af7"/><rect x="515" y="218" width="4" height="4" fill="#bb9af7"/><rect x="519" y="218" width="4" height="4" fill="#bb9af7"/><rect x="523" y="218" width="4" height="4" fill="#bb9af7"/><rect x="499" y="222" width="4" height="4" fill="#bb9af7"/><rect x="503" y="222" width="4" height="4" fill="#bb9af7"/><rect x="507" y="222" width="4" height="4" fill="#ffffff"/><rect x="511" y="222" width="4" height="4" fill="#1a1b26"/><rect x="515" y="222" width="4" height="4" fill="#bb9af7"/><rect x="519" y="222" width="4" height="4" fill="#ffffff"/><rect x="523" y="222" width="4" height="4" fill="#1a1b26"/><rect x="527" y="222" width="4" height="4" fill="#bb9af7"/><rect x="499" y="226" width="4" height="4" fill="#bb9af7"/><rect x="503" y="226" width="4" height="4" fill="#bb9af7"/><rect x="507" y="226" width="4" height="4" fill="#ffffff"/><rect x="511" y="226" width="4" height="4" fill="#1a1b26"/><rect x="515" y="226" width="4" height="4" fill="#bb9af7"/><rect x="519" y="226" width="4" height="4" fill="#ffffff"/><rect x="523" y="226" width="4" height="4" fill="#1a1b26"/><rect x="527" y="226" width="4" height="4" fill="#bb9af7"/><rect x="499" y="230" width="4" height="4" fill="#bb9af7"/><rect x="503" y="230" width="4" height="4" fill="#bb9af7"/><rect x="507" y="230" width="4" height="4" fill="#bb9af7"/><rect x="511" y="230" width="4" height="4" fill="#bb9af7"/><rect x="515" y="230" width="4" height="4" fill="#bb9af7"/><rect x="519" y="230" width="4" height="4" fill="#bb9af7"/><rect x="523" y="230" width="4" height="4" fill="#bb9af7"/><rect x="527" y="230" width="4" height="4" fill="#bb9af7"/><rect x="499" y="234" width="4" height="4" fill="#bb9af7"/><rect x="503" y="234" width="4" height="4" fill="#bb9af7"/><rect x="507" y="234" width="4" height="4" fill="#bb9af7"/><rect x="511" y="234" width="4" height="4" fill="#bb9af7"/><rect x="515" y="234" width="4" height="4" fill="#bb9af7"/><rect x="519" y="234" width="4" height="4" fill="#bb9af7"/><rect x="523" y="234" width="4" height="4" fill="#bb9af7"/><rect x="527" y="234" width="4" height="4" fill="#bb9af7"/><rect x="503" y="238" width="4" height="4" fill="#bb9af7"/><rect x="507" y="238" width="4" height="4" fill="#bb9af7"/><rect x="511" y="238" width="4" height="4" fill="#bb9af7"/><rect x="515" y="238" width="4" height="4" fill="#bb9af7"/><rect x="519" y="238" width="4" height="4" fill="#bb9af7"/><rect x="523" y="238" width="4" height="4" fill="#bb9af7"/><rect x="503" y="242" width="4" height="4" fill="#7aa2f7"/><rect x="523" y="242" width="4" height="4" fill="#7aa2f7"/>
+  <rect x="495" y="210" width="40" height="40" fill="none" stroke="#e0af68" stroke-dasharray="3 3"/>
+  <path d="M515,230 h52" stroke="#f7768e" stroke-width="3"/><path d="M567,224 l10,6 l-10,6 z" fill="#f7768e"/>
+  <path d="M515,230 v-48" stroke="#9ece6a" stroke-width="3"/><path d="M509,182 l6,-10 l6,10 z" fill="#9ece6a"/>
+</g>
+<text x="818" y="68" font-size="11" letter-spacing="2" fill="#565f89">SCRIPT · Akadream.cs</text>
+<g clip-path="url(#codeclip)"><text x="822" y="98" font-size="14" xml:space="preserve"><tspan fill="#bb9af7">public class </tspan><tspan fill="#7aa2f7">Akadream</tspan><tspan fill="#c0caf5"> : </tspan><tspan fill="#7aa2f7">Game</tspan><tspan fill="#c0caf5"> {</tspan></text><text x="822" y="121" font-size="14" xml:space="preserve"><tspan fill="#bb9af7">  protected override void </tspan><tspan fill="#7dcfff">Update</tspan><tspan fill="#c0caf5">() {</tspan></text><text x="822" y="144" font-size="14" xml:space="preserve"><tspan fill="#c0caf5">    Tools.</tspan><tspan fill="#7dcfff">Build</tspan><tspan fill="#c0caf5">();</tspan></text><text x="822" y="167" font-size="14" xml:space="preserve"><tspan fill="#c0caf5">    Games.</tspan><tspan fill="#7dcfff">Ship</tspan><tspan fill="#c0caf5">(</tspan><tspan fill="#9ece6a">"Shaper"</tspan><tspan fill="#c0caf5">);</tspan></text><text x="822" y="190" font-size="14" xml:space="preserve"><tspan fill="#c0caf5">    Games.</tspan><tspan fill="#7dcfff">Ship</tspan><tspan fill="#c0caf5">(</tspan><tspan fill="#9ece6a">"Tamamoji"</tspan><tspan fill="#c0caf5">);</tspan></text><text x="822" y="213" font-size="14" xml:space="preserve"><tspan fill="#c0caf5">  }</tspan></text><text x="822" y="236" font-size="14" xml:space="preserve"><tspan fill="#c0caf5">}</tspan></text><rect class="cover" style="animation-name:type0" x="818" y="82" width="360" height="21" fill="#1f2335"/><rect class="cover" style="animation-name:type1" x="818" y="105" width="360" height="21" fill="#1f2335"/><rect class="cover" style="animation-name:type2" x="818" y="128" width="360" height="21" fill="#1f2335"/><rect class="cover" style="animation-name:type3" x="818" y="151" width="360" height="21" fill="#1f2335"/><rect class="cover" style="animation-name:type4" x="818" y="174" width="360" height="21" fill="#1f2335"/><rect class="cover" style="animation-name:type5" x="818" y="197" width="360" height="21" fill="#1f2335"/><rect class="cover" style="animation-name:type6" x="818" y="220" width="360" height="21" fill="#1f2335"/></g>
+<circle cx="40" cy="273" r="5" fill="#9ece6a" class="pulse"/>
+<text x="52" y="278" font-size="12" fill="#9ece6a">Build succeeded</text>
+<text x="1160" y="278" font-size="12" text-anchor="end" fill="#565f89">C# · MonoGame · 60 FPS</text>
+
+</svg>
